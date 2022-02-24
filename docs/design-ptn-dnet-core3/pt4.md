@@ -1,4 +1,4 @@
-# 第四部分行为模式
+# 第四部分：行为模式
 
 Behavioral Patterns
 

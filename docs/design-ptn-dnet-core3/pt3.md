@@ -1,4 +1,4 @@
-# 第三部分结构模式
+# 第三部分：结构模式
 
 Structural Patterns
 

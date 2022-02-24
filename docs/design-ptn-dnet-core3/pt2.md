@@ -1,4 +1,4 @@
-# 第二部分创作模式
+# 第二部分：创建模式
 
 Creational Patterns
 
