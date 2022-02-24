@@ -1,4 +1,4 @@
-# 第一部分熟悉构造块
+# 第一部分：熟悉积木
 
 Getting Familiar with Building Blocks
 
@@ -6,4 +6,4 @@ Getting Familiar with Building Blocks
 
 *   第二章:事件
 
-*   第三章:λ表达式
+*   第三章:Lambda 表达式

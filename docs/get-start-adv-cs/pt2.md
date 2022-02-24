@@ -1,4 +1,4 @@
-# 第二部分探索高级编程
+# 第二部分：探索高级编程
 
 Exploring Advanced Programming
 
